@@ -107,7 +107,8 @@
 	    </strandBias>
 	</signatureName>
 
-
+<connectedSignatures>
+  
 <connected Set = "Set1">
 	<signature>SBS7a</signature>
 	<signature>SBS7b</signature>
