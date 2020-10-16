@@ -21,46 +21,6 @@
 		</totalMutations>
 	</signatureName>
 
-	<signatureName signatureSBS = "SBS7a">
-		<strandBias>
-			<mutationType mutType = "C>T">
-				<direction>1</direction>
-				<pValue>0.01</pValue>
-			</mutationType>
-	    </strandBias>
-	</signatureName>
-
-	<signatureName signatureSBS = "SBS7b">
-		<strandBias>
-			<mutationType mutType = "C>T">
-				<direction>1</direction>
-				<pValue>0.01</pValue>
-			</mutationType>
-	    </strandBias>
-	</signatureName>
-
-	<signatureName signatureSBS = "SBS7c">
-		<strandBias>
-			<mutationType mutType = "T>A">
-				<direction>1</direction>
-				<pValue>0.01</pValue>
-			</mutationType>
-			<mutationType mutType = "T>C">
-				<direction>1</direction>
-				<pValue>0.01</pValue>
-			</mutationType>
-	    </strandBias>
-	</signatureName>
-
-	<signatureName signatureSBS = "SBS7d">
-		<strandBias>
-			<mutationType mutType = "T>C">
-				<direction>1</direction>
-				<pValue>0.01</pValue>
-			</mutationType>
-	    </strandBias>
-	</signatureName>
-
 	<signatureName signatureSBS = "SBS15">
 		<totalMutations>
 			<seqType type = "WGS">
@@ -108,15 +68,8 @@
 	</signatureName>
 
 <connectedSignatures>
-  
-<connected Set = "Set1">
-	<signature>SBS7a</signature>
-	<signature>SBS7b</signature>
-	<signature>SBS7c</signature>
-	<signature>SBS7d</signature>
-</connected>
 
-<connected Set = "Set2">
+<connected Set = "Set1">
 	<signature>SBS2</signature>
 	<signature>SBS13</signature>
 </connected>
