@@ -21,6 +21,14 @@
 		</totalMutations>
 	</signatureName>
 
+  <signatureName signatureSBS = "SBS32">
+		<strandBias>
+			<mutationType mutType = "C>T">
+				<direction>-1</direction>
+				<pValue>0.01</pValue>
+			</mutationType>
+	    </strandBias>
+	</signatureName>
 
 <connectedSignatures>
 

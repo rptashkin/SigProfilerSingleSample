@@ -149,6 +149,8 @@ attributeFormDefault="unqualified">
 						<xs:enumeration value="SBS88"/>
 						<xs:enumeration value="SBS89"/>
 						<xs:enumeration value="SBS90"/>
+            <xs:enumeration value="MMRdA"/>
+            <xs:enumeration value="MMRdB"/>
 
    					</xs:restriction>
   				</xs:simpleType>
