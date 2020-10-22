@@ -42,6 +42,8 @@
 <alwaysIncludeSignatures>
 	<signature>SBS1</signature>
 	<signature>SBS5</signature>
+	<signature>SBS84</signature>
+	<signature>MMRdA</signature>
 </alwaysIncludeSignatures>
 
 </signatureRules>
